@@ -1,3 +1,3 @@
 # route-tracing
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/route-tracing)
+Draw polyline on Google map
